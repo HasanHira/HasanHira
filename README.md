@@ -1,4 +1,3 @@
-<p>HasanHira/README.md</p>
 <img src="https://iili.io/7i0b1I.jpg" alt="Hasan Hira profile" />
 
 <!-- Intro part -->
