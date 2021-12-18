@@ -1,8 +1,9 @@
 <p>HasanHira/README.md</p>
 <img src="https://iili.io/7i0b1I.jpg" alt="Hasan Hira profile" />
 
-
-<h1 align="center"> Hi 👋 I am Md Hasanuzzaman Hira</h1>
+<!-- Intro part -->
+<h1 align="center">Hi 👋 I am Md Hasanuzzaman Hira</h1>
+<h32 align="center">Graphic Designer &amp; Web Developer</h3>
 
 <!--
 **HasanHira/HasanHira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
