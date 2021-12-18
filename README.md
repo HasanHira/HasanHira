@@ -3,7 +3,7 @@
 
 <!-- Intro part -->
 <h1 align="center">Hi 👋 I am Md Hasanuzzaman Hira</h1>
-<h3 align="center" margin-top="-20px">Graphic Designer &amp; Web Developer</h3>
+<h3 align="center" margin="-20px">Graphic Designer &amp; Web Developer</h3>
 
 <!--
 **HasanHira/HasanHira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
