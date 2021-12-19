@@ -6,9 +6,8 @@
 ###### Love to learn design &amp; code ######
 #### 🏠 Live in: Dhaka, Bangladesh.🇧🇩 ####
 ---
-## 👨‍💻  About Me ##
- 
-<p></p>
+## 👨‍💻 About Me ##
+<p> Having 7+ years of greate experience in graphic design, I have served many companies and person local market and online marketplaces.</p>
 
 <!--
 **HasanHira/HasanHira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
