@@ -7,6 +7,7 @@ Love to learn design &amp; code
 ### 🏠 Live in: Dhaka, Bangladesh.🇧🇩 ###  
 ---
 ## 🧔🏾 About Me ##
+Person: Medium-Dark Skin Tone, Beard on WhatsApp 
 <p></p>
 
 <!--
