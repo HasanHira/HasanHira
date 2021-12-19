@@ -2,12 +2,12 @@
 
 <!-- Intro part -->
 # Hi 👋 I am Md Hasanuzzaman Hira #
-#### Graphic Designer &amp; Web Developer ####
-Love to learn design &amp; code  
-### 🏠 Live in: Dhaka, Bangladesh.🇧🇩 ###  
+### Graphic Designer &amp; Web Developer ###
+###### Love to learn design &amp; code ######
+#### 🏠 Live in: Dhaka, Bangladesh.🇧🇩 ####
 ---
-## 🧔🏾 About Me ##
-Person: Medium-Dark Skin Tone, Beard on WhatsApp 
+## 🧔🏾 About Me ## 🧔🏿‍♂️
+ 
 <p></p>
 
 <!--
