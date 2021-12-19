@@ -6,7 +6,7 @@
 ###### Love to learn design &amp; code ######
 #### 🏠 Live in: Dhaka, Bangladesh.🇧🇩 ####
 ---
-## 🧔🏾 About Me ## 🧔🏾
+## 👨🏽‍💻 About Me ##
  
 <p></p>
 
