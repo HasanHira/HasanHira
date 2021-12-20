@@ -12,21 +12,21 @@ I have served many companies and person local market and online marketplaces.
 <br /><br />
 I am available for Consultancy, If you need I can share my best ideas about your Startup project and some tech insights before starting a project,  
 ★ From an eCommerce website to Blog, Business, Corporate, Portfolio, Startup you can just book a consultation with me to discuss further.
-<br />
+<br /><br />
 ➤ I can build your Website which follows all the industry standards, use all proven methods, and converts the audience as you intended.
-<br />
+<br /><br />
 ➤ I can build your business-focused design templates and website which will help you to generate leads and engagement. You will get a Premium Experience throughout the Journey of the work with me. The Standards I follow while working on projects:  
 <br />
-☑️ Maintaining Brand Guideline (color, font, brand aesthetics)<br />
-☑️ Applying Typography Rules<br />
-☑️ Applying the Hierarchy Rules<br />
-☑️ Applying the Contrast Rule throughout the site<br />
-☑️ Proper Padding, Margin, and Negative spaces<br />
-☑️ Responsive all devices including mobile phone<br />
-☑️ Search Engine Optimization (SEO) friendly<br />
-☑️ Engaging and Industry Standard Call to Action to get more leads<br />
-☑️ Proper Implementation of User Experience (UX) Rules<br />
-☑️ A Visually Pleasing website that fulfills the business needs<br />
+✅ Maintaining Brand Guideline (color, font, brand aesthetics)<br />
+✅ Applying Typography Rules<br />
+✅ Applying the Hierarchy Rules<br />
+✅ Applying the Contrast Rule throughout the site<br />
+✅ Proper Padding, Margin, and Negative spaces<br />
+✅ Responsive all devices including mobile phone<br />
+✅ Search Engine Optimization (SEO) friendly<br />
+✅ Engaging and Industry Standard Call to Action to get more leads<br />
+✅ Proper Implementation of User Experience (UX) Rules<br />
+✅ A Visually Pleasing website that fulfills the business needs<br />
 <br /><br />
 ➤ Why should you work with me?  
 I guarantee:  
@@ -37,7 +37,7 @@ I guarantee:
 ✔️ Meetings  
 ✔️ Timely delivery, and supports  
 <br />
-☑️ Other experience: Squarespace
+✅ Other experience: Squarespace
 <br />
 <!--
 **HasanHira/HasanHira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
