@@ -17,7 +17,7 @@ I am available for Consultancy, If you need I can share my best ideas about your
 <br /><br />
 ➤ I can build your business-focused design templates and website which will help you to generate leads and engagement. You will get a Premium Experience throughout the Journey of the work with me. The Standards I follow while working on projects:  
 <br />
-✔️ Maintaining Brand Guideline (color, font, brand aesthetics)<br />
+🔘 Maintaining Brand Guideline (color, font, brand aesthetics)<br />
 ✅ Applying Typography Rules<br />
 ✅ Applying the Hierarchy Rules<br />
 ✅ Applying the Contrast Rule throughout the site<br />
