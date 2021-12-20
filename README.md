@@ -27,7 +27,7 @@ I am available for Consultancy, If you need I can share my best ideas about your
 🔘 Proper Implementation of User Experience (UX) Rules<br />
 🔘 A Visually Pleasing website that fulfills the business needs<br />
 <br /><br />
-🎖️ Why work with me?  
+**🎖️ Why work with me?**<br />
 I guarantee:  
 ✔️ Perform your project in a great way  
 ✔️ Fast and professional work  
