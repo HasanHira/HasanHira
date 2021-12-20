@@ -7,7 +7,37 @@
 #### 🏠 Live in: Dhaka, Bangladesh.🇧🇩 ####
 ---
 ## 👨‍💻 About Me ##
-<p> Having 7+ years of greate experience in graphic design, I have served many companies and person local market and online marketplaces.</p>
+Having 8+ years of greate experience in graphic design &amp; 4+ years in web design, In graphic design I am the expert in Brand Identity, Editorial, Pictorial design &amp; templates. Also, I have a level of expertise in Html5, Css3, jQuery plugins integration, Bootstrap, Scss, WordPress, WooCommerce, Web Design, Web Development. And also have great knowledge in javaScript, Php, Mysqli.  
+I have served many companies and person local market and online marketplaces.
+<br />
+I am available for Consultancy, If you need I can share my best ideas about your Startup project and some tech insights before starting a project,  
+★ From an eCommerce website to Blog, Business, Corporate, Portfolio, Startup you can just book a consultation with me to discuss further.
+<br />
+➤ I can build your Website which follows all the industry standards, use all proven methods, and converts the audience as you intended.
+<br />
+➤ I can build your business-focused design templates and website which will help you to generate leads and engagement. You will get a Premium Experience throughout the Journey of the work with me. The Standards I follow while working on projects:  
+
+✅ Maintaining Brand Guideline (color, font, brand aesthetics)
+✅ Applying Typography Rules
+✅ Applying the Hierarchy Rules
+✅ Applying the Contrast Rule throughout the site
+✅ Proper Padding, Margin, and Negative spaces
+✅ Responsive all devices including mobile phone
+✅ Search Engine Optimization (SEO) friendly
+✅ Engaging and Industry Standard Call to Action to get more leads
+✅ Proper Implementation of User Experience (UX) Rules
+✅ A Visually Pleasing website that fulfills the business needs
+<br />
+➤ Why should you work with me?  
+I guarantee:  
+✔️ Perform your project in a great way  
+✔️ Fast and professional work  
+✔️ Attention to details  
+✔️ Updating your projects summary often  
+✔️ Meetings  
+✔️ Timely delivery, and supports  
+<br />
+✅ Other experience: Squarespace
 
 <!--
 **HasanHira/HasanHira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
