@@ -36,7 +36,7 @@ I guarantee:
 ✔️ Meetings  
 ✔️ Timely delivery, and supports  
 <br /><br />
-💠 Other experience: Squarespace
+**💠 Other experience:** Squarespace
 <br />
 <!--
 **HasanHira/HasanHira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
