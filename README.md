@@ -7,9 +7,10 @@
 #### 🏠 Live in: Dhaka, Bangladesh.🇧🇩 ####
 ---
 ## 👨‍💻 About Me ##
-Having 8+ years of great experience in graphic design &amp; 4+ years in web design, In graphic design I am the expert in Brand Identity, Editorial, Pictorial design &amp; templates. Also, I have a level of expertise in HTML5, CSS3, jQuery plugins integration, Bootstrap, SCSS.
-[, WordPress, WooCommerce, Web Design, Web Development. And also have great knowledge in javaScript, Php, Mysqli.]: #
-I have served many companies and person local-market and online marketplaces.
+Having 8+ years of great experience in graphic design &amp; 4+ years in web design, In graphic design I am the expert in Brand Identity, Editorial, Pictorial design &amp; templates. Also, I have a level of expertise in HTML5, CSS3, jQuery plugins integration, Bootstrap, SCSS. I have served many companies and person local-market and online marketplaces.
+
+[this was after SCSS:, WordPress, WooCommerce, Web Design, Web Development. And also have great knowledge in javaScript, Php, Mysqli.]: #
+
 <br /><br />
 I am available for Consultancy, If you need I can share my best ideas about your Startup project and some tech insights before starting a project. From an eCommerce website to Blog, Business, Corporate, Portfolio, Startup you can just book a consultation with me to discuss further.
 <br /><br />
